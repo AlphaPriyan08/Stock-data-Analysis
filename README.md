@@ -3,6 +3,9 @@
 ## **Overview**
 The **Stock Comparison Dashboard** is an interactive web application that enables users to analyze and compare historical stock prices of multiple companies. It provides **dynamic visualizations** such as line charts, box plots, and histograms to study trends, price distributions, and daily returns.
 
+## **Demo**
+🔗🔗https://stock-data-analysis-wx4nd2apus9vgpbvdvmzwv.streamlit.app/🔗🔗
+
 ## **Features**
 ✔️ **Fetch real-time stock data** using Yahoo Finance  
 ✔️ **Compare multiple stocks** on a single dashboard  
