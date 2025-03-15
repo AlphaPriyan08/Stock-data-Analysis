@@ -1,15 +1,25 @@
-# Stock-data-Analysis
-This project fetches and analyzes real-time and historical stock market data using the Alpha Vantage API. It helps in tracking stock prices, trends, and financial indicators for Indian stock markets, replacing IEX Cloud with Alpha Vantage.
+# Stock Comparison Dashboard 📊
 
-Features:
-✅ Fetch real-time and historical stock prices 📊
-✅ Support for multiple Indian stock tickers 🏦
-✅ Data visualization with charts 📈
-✅ Automated stock alerts (if applicable) 🔔
-✅ Customizable parameters for in-depth analysis 🔍
+## **Overview**
+The **Stock Comparison Dashboard** is an interactive web application that enables users to analyze and compare historical stock prices of multiple companies. It provides **dynamic visualizations** such as line charts, box plots, and histograms to study trends, price distributions, and daily returns.
 
-Technologies Used: 
-Python 🐍,
-Alpha Vantage API (Stock Market Data),
-Pandas (Data Processing),
-Matplotlib / Plotly (Data Visualization),
+## **Features**
+✔️ **Fetch real-time stock data** using Yahoo Finance  
+✔️ **Compare multiple stocks** on a single dashboard  
+✔️ **Interactive charts** powered by Plotly  
+✔️ **Box plot visualization** for stock price distribution  
+✔️ **Daily return histograms** to analyze stock volatility  
+✔️ **Auto-refresh functionality** for live stock tracking  
+
+## **Tech Stack**
+- **Python** 🐍
+- **Streamlit** (Web App)
+- **yFinance** (Stock Data API)
+- **Plotly** (Data Visualization)
+- **Pandas** (Data Analysis)
+
+## **Installation**
+### **1. Clone the Repository**
+```sh
+git clone https://github.com/AlphaPriyan08/Stock-data-Analysis.git
+cd Stock-data-Analysis
